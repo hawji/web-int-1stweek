@@ -3,7 +3,7 @@ body,h1,h2,h3,img,div{margin: 0;box-sizing: border-box;}
 
 
 
-.center-align {text-align: center;display: block;margin: auto;padding-top: 30vh;
+.center-align {text-align: center;display: block;margin: auto;padding-top: 20vh;
     
 }
 
@@ -38,4 +38,28 @@ body{background-size: cover;overflow: hidden;}
 
 .detail1 {position: absolute;top: 0;opacity: 0;z-index: -1;
     
+}
+
+#loca12 {position: absolute; bottom: -5%;left:10%; transition: left 1s ease-in;
+    
+}
+
+#ahah {margin: auto;
+    
+}
+
+.edfsdf {
+    position: relative;
+}
+
+#loca13 {position: absolute;bottom: 0;right: 16%; transition: right 0.5s ease-in, bottom 0.5s ease-in;
+    
+}
+
+#ty12 {position: absolute;margin: auto;top: 10%;left:20%;z-index: -2;
+    
+}
+
+#ahah2 {z-index: -9999;width: 400px;
+   transition: width 1s ease-in, opacity 2s ease-in;
 }
